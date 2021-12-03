@@ -10,6 +10,8 @@ The following are the Screenshots of my final presentation.
 ![alt text](https://github.com/jayzobalia/Data-Visualization_Covid-Cases_Jay/blob/main/Images/Screenshot%20(59).png)
 # Contributor
 Jay Zobalia
+Roll no - 16010120121
+Batch - B4
 (KJ Somaiya College Of Engineering,Mumbai)
 
 # Acknowledgement
